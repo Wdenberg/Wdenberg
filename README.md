@@ -1,5 +1,9 @@
-# Wdenberg Ramos;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+https://user-images.githubusercontent.com/88355939/139597726-a9cd6f6e-6566-456f-b1bc-7fce87efee6b.jpg
 
+
+
+
+# Wdenberg Ramos;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <div align="center">
   <a href="https://github.com/Wdenberg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
