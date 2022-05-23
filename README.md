@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/88355939/139597838-132dd827-6943-4025-9e97-1d845c131229.png)
+![banner](https://github.com/Wdenberg/Wdenberg/issues/3#issue-1245279763)
 # Wdenberg Ramos;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <div align="center">
   <a href="https://github.com/Wdenberg">
