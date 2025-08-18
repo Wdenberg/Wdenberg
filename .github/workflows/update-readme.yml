@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *" # a cada 12 horas
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,7 +17,7 @@ jobs:
 
       - name: Atualizar data no README
         run: |
-          sed -i "s|<!--LAST_UPDATED-->|$(date '+%d/%m/%Y %H:%M:%S')|g" README.md
+          sed -i "s|<!--LAST_UPDATED-->.*-->|<!--LAST_UPDATED-->$(date '+%d/%m/%Y %H:%M:%S')-->|g" README.md
 
       - name: Commit e Push
         run: |
