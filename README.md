@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/vH9Z30N.png" alt="Conceito Full Stack em Programação" width="700"/>
+  <img src="" alt="Capa Full Stack" width="100%"/>
 </p>
 
 ---
@@ -43,20 +43,20 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 | :--- | :--- | :--- |
 | **🚀 Fast Delivery** | Sistema de delivery completo desenvolvido com TypeScript. | [Acessar](https://github.com/Wdenberg/Fast-Delivery) |
 | **🎂 Cake da Nanni** | Landing page criativa com foco em UI/UX para confeitaria. | [Acessar](https://github.com/Wdenberg/Cakedananni) |
-| **⚙️ MSI B550M OC** | Documentação técnica de configurações de hardware e Overclock. | [Acessar](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) |
+| **⚙️ MSI B550M OC** | Documentação técnica de configurações de hardware. | [Acessar](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) |
 
 ---
 
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wdenbergramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/Wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -66,5 +66,5 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 ---
 
 <p align="center">
-  📅 <i>Atualizado em: </i>
+  📅 <i>Atualizado em: 05/01/2026</i>
 </p>
