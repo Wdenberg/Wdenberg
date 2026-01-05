@@ -45,8 +45,8 @@ Sou **Desenvolvedor Full Stack** focado em criar soluções escaláveis e orient
 
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Status | Link |
-| :--- | :--- | :--- | :--- | :--- |
+| Projeto | Descrição | Status | Link | Repositorio |
+| :--- | :--- | :--- | :--- |
 | **🚀 Fast Delivery** | Sistema SaaS multi-tenant com painel administrativo. | Concluído | [Acessar]() |  [ REPOSITORIO](https://github.com/Wdenberg/Fast-Delivery)
 | **⛪ IEADALPE Site** | Site institucional com foco em transmissões ao vivo. | Em dev | - | [ REPOSITORIO]()
 | **🎂 Gestão Doce** | Landing page criativa com integração Supabase. | Em dev | [Acessar]() | [ REPOSITORIO]()
