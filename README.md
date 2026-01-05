@@ -1,49 +1,66 @@
-# 👋 Olá, eu sou o Wdenberg Ramos de Barros
+# 👋 Olá, eu sou o Wdenberg Ramos
 
-📍 Recife - PE, Brasil  
-🎯 28 anos | Full Stack em formação | Apaixonado por tecnologia  
-🌱 Atualmente estudando **Programação & Full Stack Master**  
-
----
-
-## 🚀 Sobre mim
-Sou desenvolvedor em evolução, focado em criar soluções completas do **frontend ao backend**.  
-Busco aprender novas tecnologias, colaborar em projetos e compartilhar conhecimento.  
-
-📌 Portfólio Online → [wdenberg.github.io/Portifolio-Wdenberg](https://wdenberg.github.io/Portifolio-Wdenberg/)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudando_Full_Stack-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Localização-Recife,_%20PE-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🚀 Sobre Mim
+Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **Full Stack**. Atualmente, dedico meus estudos ao programa **Full Stack Master**, onde aprofundo conhecimentos em arquitetura de software, performance e escalabilidade.
 
+* 🎯 **Objetivo:** Criar soluções robustas que unam uma experiência de usuário fluida a um backend eficiente.
+* 🌱 **Foco Atual:** TypeScript, Node.js avançado e integrações de API.
+* 💼 **Portfólio:** [wdenberg.github.io/Portifolio-Wdenberg](https://wdenberg.github.io/Portifolio-Wdenberg/)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### **Backend & Ferramentas**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📂 Repositórios em Destaque
+### 📂 Projetos em Destaque
 
-- [Fast-Delivery](https://github.com/Wdenberg/Fast-Delivery) – 🚀 Sistema de delivery em **TypeScript**  
-- [Projeto-Git](https://github.com/Wdenberg/-Projeto-Git) – 📘 Projetos para prática e aprendizado  
-- [Cakedananni](https://github.com/Wdenberg/Cakedananni) – 🎂 Projeto criativo em frontend  
-- [MSI-B550M-MORTAR-RYZEN-5-5600G-OC](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) – ⚙️ Configurações técnicas  
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Wdenberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight)  
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| **🚀 Fast Delivery** | Sistema de delivery completo desenvolvido com TypeScript. | [Acessar](https://github.com/Wdenberg/Fast-Delivery) |
+| **🎂 Cake da Nanni** | Landing page criativa com foco em UI/UX para confeitaria. | [Acessar](https://github.com/Wdenberg/Cakedananni) |
+| **⚙️ MSI B550M OC** | Documentação técnica de configurações de hardware e Overclock. | [Acessar](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) |
 
 ---
 
-## ⏳ Última atualização automática
-⌚ Atualizado em: <!--LAST_UPDATED-->
+### 🤝 Conecte-se comigo
+
+<p align="left">
+<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
 ---
+
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  📅 <i>Atualizado em: </i>
+</p>
