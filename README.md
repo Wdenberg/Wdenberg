@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/vH9Z30N.png" alt="Conceito Full Stack em Programação" width="700"/>
+  <img src="https://github.com/Wdenberg/Wdenberg/issues/1#issue-3782183799" alt="Conceito Full Stack em Programação" width="700"/>
 </p>
 
 ---
