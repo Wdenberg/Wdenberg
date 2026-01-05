@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Localização-Recife,_%20PE-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/vH9Z30N.png" alt="Conceito Full Stack em Programação" width="700"/>
+</p>
+
 ---
 
 ### 🚀 Sobre Mim
@@ -46,8 +50,8 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 ---
