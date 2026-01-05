@@ -56,14 +56,16 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas e Atividade
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   📅 <i>Atualizado em: 05/01/2026</i>
