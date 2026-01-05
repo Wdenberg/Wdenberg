@@ -72,20 +72,23 @@ Tenho experiência em projetos **SaaS**, **sistemas multi-tenant**, autenticaç�
 ## 🤝 Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wdenberg-ramos-3069a117b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/Wdenberg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Atividade
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Wdenberg&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   📅 <i>Atualizado em: 05 de Janeiro de 2026</i>
