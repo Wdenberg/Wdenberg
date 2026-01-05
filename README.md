@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Capa Full Stack" width="100%"/>
+  <img src="https://github.com/Wdenberg/Wdenberg/blob/main/unnamed.jpg" alt="Capa Full Stack" width="100%"/>
 </p>
 
 ---
