@@ -50,7 +50,7 @@ Sou **Desenvolvedor Full Stack** focado em criar soluções escaláveis e orient
 | **🚀 Fast Delivery** | Sistema SaaS multi-tenant com painel administrativo. | Concluído | [Acessar](https://github.com/Wdenberg/Fast-Delivery) |
 | **⛪ IEADALPE Site** | Site institucional com foco em transmissões ao vivo. | Em dev | - |
 | **🎂 Gestão Doce** | Landing page criativa com integração Supabase. | Em dev | [Acessar](https://github.com/Wdenberg/) |
-| **🎂 Getra - Transport Management** | Este é um aplicativo completo de gerenciamento de transportes.  | [Acessar](https://getrasolicitacaodetransporte.vercel.app/) | [ REPOSITORIO](https://github.com/Wdenberg/studio)
+| **🎂 Getra - Transport Management** | Este é um aplicativo completo de gerenciamento de transportes. | Concluído | [Acessar](https://getrasolicitacaodetransporte.vercel.app/) | [ REPOSITORIO](https://github.com/Wdenberg/studio)
 
 ---
 
