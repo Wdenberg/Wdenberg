@@ -2,26 +2,33 @@ name: Atualizar README
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # a cada 12 horas
+    - cron: "0 */12 * * *" # a cada 12 horas (UTC)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Clonar repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Atualizar data no README
         run: |
-          sed -i "s|<!--LAST_UPDATED-->.*-->|<!--LAST_UPDATED-->$(date '+%d/%m/%Y %H:%M:%S')-->|g" README.md
+          DATE=$(TZ=America/Recife date '+%d/%m/%Y %H:%M:%S')
+          sed -i "s|<!--LAST_UPDATED-->.*|<!--LAST_UPDATED--> $DATE|g" README.md
 
-      - name: Commit e Push
+      - name: Commit e Push (somente se houver alterações)
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -am "🔄 README atualizado automaticamente"
+          if git diff --quiet; then
+            echo "Nenhuma alteração no README"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "🔄 Atualiza data do README automaticamente"
           git push
