@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Wdenberg/Wdenberg/issues/1#issue-3782183799" alt="Conceito Full Stack em Programação" width="700"/>
+  <img src="[https://github.com/Wdenberg/Wdenberg/issues/1#issue-3782183799](https://private-user-images.githubusercontent.com/88355939/532039290-b149e248-9d9e-46e5-a401-4e505909e714.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2MzIzNzEsIm5iZiI6MTc2NzYzMjA3MSwicGF0aCI6Ii84ODM1NTkzOS81MzIwMzkyOTAtYjE0OWUyNDgtOWQ5ZS00NmU1LWE0MDEtNGU1MDU5MDllNzE0LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA1VDE2NTQzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMjRkOTY3YjllYTM4NjY1ZWQ3NDVjMjM4MjU0MDNiOGUwMDA0MmNhNTE2YTFiODgyMWMyYzk3MTBiNDdhMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0ghARsOAutC8j4y6ZOFEihS6GaOYzWmc2EpAJFawZsU)" alt="Conceito Full Stack em Programação" width="700"/>
 </p>
 
 ---
