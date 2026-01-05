@@ -81,16 +81,51 @@ Tenho experiência em projetos **SaaS**, **sistemas multi-tenant**, autenticaç�
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  📅 <i>Atualizado em: 05 de Janeiro de 2026</i>
+  <img src="https://img.shields.io/github/followers/Wdenberg?label=Seguidores&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Wdenberg?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Perfil-Full%20Stack%20Developer-blue?style=for-the-badge" />
+</p>
+-
+### ** Linguagens mais usadas **
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-important?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Node.js-TypeScript-success?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-Next.js-blue?style=for-the-badge&logo=react" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wdenberg&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub em Números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wdenberg&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
