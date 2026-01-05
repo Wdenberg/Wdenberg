@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Wdenberg/Wdenberg/blob/main/unnamed.jpg" alt="Capa Full Stack" width="100%"/>
+  <img src="https://github.com/Wdenberg/Wdenberg/assets/142998797/81977799-7023-4f9e-a89c-5a63969a68e8" alt="Banner de Programação" width="100%">
 </p>
 
 ---
@@ -43,15 +43,15 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 | :--- | :--- | :--- |
 | **🚀 Fast Delivery** | Sistema de delivery completo desenvolvido com TypeScript. | [Acessar](https://github.com/Wdenberg/Fast-Delivery) |
 | **🎂 Cake da Nanni** | Landing page criativa com foco em UI/UX para confeitaria. | [Acessar](https://github.com/Wdenberg/Cakedananni) |
-| **⚙️ MSI B550M OC** | Documentação técnica de configurações de hardware. | [Acessar](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) |
+| **⚙️ MSI B550M OC** | Documentação técnica de configurações de hardware e Overclock. | [Acessar](https://github.com/Wdenberg/MSI-B550M-MORTAR-RYZEN-5-5600G-OC-0.9.3-VEGA-7-ONBOARD) |
 
 ---
 
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/wdenbergramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.instagram.com/Wdenbergramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wdenberg-ramos-3069a117b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/Wdenberg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 ---
@@ -59,14 +59,12 @@ Sou um desenvolvedor em constante evolução, focado em dominar o ecossistema **
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wdenberg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wdenberg&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Wdenberg&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wdenberg&layout=compact&theme=tokyonight" />
-</p>
+---
 
 <p align="center">
-  📅 <i>Atualizado em: 05/01/2026</i>
+  📅 <i>Atualizado em: 05 de Janeiro de 2026</i>
 </p>
