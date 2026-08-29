@@ -99,7 +99,7 @@ Backend em desenvolvimento para gestão de salões e agendamentos, com foco em a
 Plataforma digital integrada para gestão de usuários, obreiros, notícias, documentos e processos administrativos, com aplicações Web e Mobile.
 
 [🔗 API](https://github.com/Wdenberg/ieadalpe-api)
-[🔗 Web](https://github.com/Wdenberg/ieadalpe-connect)
+[🔗 Web](https://ieadalpe.vercel.app/)
 [🔗 Mobile](https://github.com/Wdenberg/Ieadalpe-app-ReactNative)
 
 ---
